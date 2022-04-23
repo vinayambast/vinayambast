@@ -1,7 +1,7 @@
 #Hi 👋 My name is Vinay Ambast
 =============================
 
-Web Developer & Designer
+Full-Stack Developer
 ------------------------
 
 Detailed-oriented, responsible and committed engineer, with a get-it-done, on-time and high-quality product spirit, and more than a decade of experience defining requirements, designing, implementing, testing and delivering complex back-end and web applications using variety programming languages and technologies. Technical proficiency include: Programming languages: Java, Apache Camel, J2EE, HTML, C++, JSP, JavaScript, etc Database: SQL, Oracle, Procedure Language Servers: Apache Tomcat, BEA Web-logic, IBM WebSphere, J Boss Tools: Eclipse IDE, Spring STS, Git, Net Beans IDE, Accurev, Jenkins, J Unit Methodologies: SA-Fe(Scaled Agile Framework), Oriented Design(OOO), Agile Software Development, Object-Oriented Programming System (OOPS), Test-driven Development. Certificates: National Institute of Information Technology(NIIT) Certified Java SE Programmer (May 2018)
