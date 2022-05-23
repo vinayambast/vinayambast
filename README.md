@@ -1,4 +1,4 @@
-#Hi 👋 My name is Vinay Ambast
+#Hi 👋 My name is Vinay 
 =============================
 
 Full-Stack Developer
