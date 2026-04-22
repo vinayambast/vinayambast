@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLz5UsVfv8UMJH/giphy.gif" width="28"> I'm Vinay Kumar Ambast
+# <img src="https://media.giphy.com/media/hvRJCLz5UsVfv8UMJH/giphy.gif" width="28"> I'm Vinay Ambast
 
 ### **Communication & IT Head | Data Scientist | Founder & Entrepreneur**
 *10+ Years of Excellence in Software Engineering, Strategic Leadership, and Data-Driven Growth.*
