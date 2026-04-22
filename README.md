@@ -42,7 +42,7 @@
 
 ## 💼 Professional Experience
 
-### 🏢 **Communication & IT Head** | *Current Organization* *Mar 2024 – Present*
+### 🏢 **Communication & IT Head** | *KIRAN Society* *Mar 2024 – Present*
 - **Team Leadership:** Manage cross-functional teams in IT, Sales, Revenue, and Finance.
 - **BI Architecture:** Designed real-time Looker/Power BI dashboards; **improved decision speed by 40%**.
 - **Data Governance:** Reduced pipeline discrepancies by **25%** through SQL optimization and ETL best practices.
